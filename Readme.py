@@ -3,11 +3,13 @@
 ## About the Project:
  
 A simple Python-based GUI Quiz Game using `tkinter` and `ttkbootstrap`. This project displays questions with multiple-choice answers and tracks the user's score. It's a fun way to test your knowledge on various topics!
+
 ## Requirements
 Before you begin, make sure you have the following installed:
 -   Python (version 3.6 or above)
 -   `ttkbootstrap` library
 -   `tkinter` (comes pre-installed with Python)
+
 ## Libraries:
 -   **ttkbootstrap**: Used to enhance the appearance of tkinter widgets with modern themes. To install this, use:
  `pip install ttkbootstrap`
@@ -22,12 +24,15 @@ Before you begin, make sure you have the following installed:
 -   **Feedback**: After answering a question, you receive immediate feedback on whether your answer was correct or incorrect.   
 -   **Modern Interface**: Using `ttkbootstrap` for enhanced visual appeal with a modern theme.
 -   **Next Question Button**: After each question, you can move to the next question once you select an answer.
+
+
   ## How the Game Works
 -   The game starts with a welcome screen and displays the first question.
 -   You will be presented with four options for each question.
 -   After selecting an option, the game will show whether your answer is correct or incorrect.
 -   The score will update accordingly.
 -   After you complete all questions, the game will show your total score.
+
  ## How to Run
 - Open a terminal or command prompt.
 -  Navigate to the directory containing `quiz_game.py`.
