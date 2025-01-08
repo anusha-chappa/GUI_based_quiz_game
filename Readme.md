@@ -75,12 +75,14 @@ The `check_answer` method:
 -   **End Quiz:** Displays the final score and closes the game window.
 
 ## Example Questions File (`questions.json`)
+
+```json
 [
   {
     "question": "What is the capital of France?",
     "options": ["Berlin", "Madrid", "Paris", "Rome"],
     "answer": "Paris"
-  },
+  }
 ]
-           
+         
 
